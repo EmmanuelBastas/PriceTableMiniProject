@@ -18,7 +18,7 @@ The product of this project is a pricing panel.
 
 ## Contact
 
-**Emmanuel Bastas** - manos.bastas.ma@gmail.com - [![LinkedIn][LinkedIn.logo]][LinkedIn-url]
+**Emmanuel Bastas** - `manos.bastas.ma@gmail.com` - [![LinkedIn][LinkedIn.logo]][LinkedIn-url]
 
 [LinkedIn.logo]: https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/emmanuelchristosbastas/
